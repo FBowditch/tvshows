@@ -29,7 +29,7 @@ See the presentation and conclusions on [Google Slides](https://docs.google.com/
    1. MySQL Server on AWS RDS
    1. Seaborn/Matplotlib
 
-![Screenshot](Chart_Plots/Workflow.png)
+![Screenshot](FBowditch/tvshows/Chart_Plots/Workflow.png)
 
 ## How to use this repo
 
