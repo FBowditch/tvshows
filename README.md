@@ -45,3 +45,15 @@ See the presentation and conclusions on [Google Slides](https://docs.google.com/
 
 ### Analysis
  - analysis.ipynb in the top level directory
+ 
+ 
+![Screenshot](https://github.com/FBowditch/tvshows/blob/master/Charts_Plots/Viewership.png)
+
+![Screenshot](https://github.com/FBowditch/tvshows/blob/master/Charts_Plots/Quality.png)
+
+![Screenshot](https://github.com/FBowditch/tvshows/blob/master/Charts_Plots/Amazon.png)
+
+![Screenshot](https://github.com/FBowditch/tvshows/blob/master/Charts_Plots/Timing.png)
+
+
+
