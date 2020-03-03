@@ -1,4 +1,4 @@
-# Shake It Off
+# Debatable Cable
 ## The critics don't know what the people want
 We analyze Nielsen ratings and Rotten Tomatoes scores to find that critic and
 audience reviews don't have much to do with what people actually watch.
